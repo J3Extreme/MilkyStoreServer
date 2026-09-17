@@ -1,0 +1,21 @@
+{
+  "protocol": { "status": "0" },
+  "request": { "id": "2080", "name": "productDetail" },
+  "response": [
+    {
+      "productID": "com.example.myapp",
+      "productName": "My First App",
+      "sellerName": "j3extreme",
+      "productDescription": "This is a cool app hosted on GitHub Pages!",
+      "categoryPath": "Tools > Awesome",
+      "version": "1.0.0",
+      "contentsSize": "1.5",
+      "restrictedAge": "3+",
+      "contentLanguage": "English",
+      "compatibleOS": "7",
+      "productImgUrl": "https://placehold.co/300x200.png",
+      "screenShotUrl1": "https://placehold.co/480x800.png",
+      "screenShotUrl2": "https://placehold.co/480x800.png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "protocol": { "status": "0" },
+  "request": { "id": "2010", "name": "categoryList", "totalCount": "2" },
+  "response": [
+    {
+      "categoryID": "tools",
+      "categoryName": "Tools & Utilities",
+      "categoryIconUrl": "https://placehold.co/50x50.png"
+    },
+    {
+      "categoryID": "games",
+      "categoryName": "Games",
+      "categoryIconUrl": "https://placehold.co/50x50.png"
+    }
+  ]
+}

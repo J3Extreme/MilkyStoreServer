@@ -1,0 +1,17 @@
+{
+  "protocol": { "status": "0" },
+  "request": { "id": "2235", "name": "featuredProductList", "totalCount": "1" },
+  "response": [
+    {
+      "productID": "com.example.myapp",
+      "GUID": "com.example.myapp",
+      "productName": "My First App",
+      "productImgUrl": "https://placehold.co/100x70.png",
+      "contentType": "application",
+      "averageRating": "10",
+      "version": "1.0.0",
+      "productPrice": "Free",
+      "sellerName": "j3extreme"
+    }
+  ]
+}
